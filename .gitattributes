@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+print("+------------------------------------+")
+print("+      student id card               +")
+print("+------------------------------------+")
+print("|       name:oggy                     |")
+print("|       number:09                     |")
+print("|       branch:BBA                    |")
+print("|       bloodgroup:A+                 |")
+print("|       hostel                        |")
+print("+------------------------------------+-")
